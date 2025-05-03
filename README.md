@@ -1,4 +1,4 @@
-### Skillset and Technical Competencies
+### Core Skillset & Tools
 - 🛡️ Cybersecurity & DevOps
 
   ![Cybersecurity & DevOps](https://go-skill-icons.vercel.app/api/icons?i=docker,kali,selenium,wireshark)
@@ -23,8 +23,7 @@
 
   ![Media & Graphic Design](https://go-skill-icons.vercel.app/api/icons?i=aftereffects,lightroom,photoshop)
 
-
-### My Github Stats
+### Github Stats
 
 <a href="https://github.com/AbdelRahmanRahal">
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=AbdelRahmanRahal&show_icons=true&theme=dracula&title_color=79dafa&bg_color=45,282a36,1e2028&hide_rank=true" />
