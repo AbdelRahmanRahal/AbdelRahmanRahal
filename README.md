@@ -30,5 +30,5 @@
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=AbdelRahmanRahal&show_icons=true&theme=dracula&title_color=79dafa&bg_color=45,282a36,1e2028&hide_rank=true" />
 </a>
 <a href="https://github.com/AbdelRahmanRahal">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelRahmanRahal&theme=dracula&title_color=79dafa&bg_color=45,282a36,1e2028&card_width=326" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelRahmanRahal&theme=dracula&layout=compact&title_color=79dafa&bg_color=45,282a36,1e2028&card_width=326" />
 </a>
