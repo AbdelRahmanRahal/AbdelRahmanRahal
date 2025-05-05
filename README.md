@@ -24,7 +24,6 @@
   ![Media & Graphic Design](https://go-skill-icons.vercel.app/api/icons?i=aftereffects,lightroom,photoshop)
 
 ### Github Stats
-
 <a href="https://github.com/AbdelRahmanRahal" style="text-decoration: none;">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=AbdelRahmanRahal&show_icons=true&hide_rank=true&hide_border=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=30,292a70,004f80&card_width=280" /><img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelRahmanRahal&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=30,004f80,292a70&card_width=280" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=AbdelRahmanRahal&show_icons=true&hide_rank=true&hide_border=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=25,2B2C59,1C314D&card_width=300" /><img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelRahmanRahal&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=25,1C314D,2B2C59&card_width=300" />
 </a>
