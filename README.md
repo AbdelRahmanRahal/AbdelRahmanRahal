@@ -25,9 +25,6 @@
 
 ### Github Stats
 
-<a href="https://github.com/AbdelRahmanRahal">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=AbdelRahmanRahal&show_icons=true&theme=dracula&title_color=79dafa&bg_color=45,282a36,1e2028&hide_rank=true" />
-</a>
-<a href="https://github.com/AbdelRahmanRahal">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelRahmanRahal&theme=dracula&layout=compact&title_color=79dafa&bg_color=45,282a36,1e2028&card_width=326" />
+<a href="https://github.com/AbdelRahmanRahal" style="text-decoration: none;">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=AbdelRahmanRahal&show_icons=true&hide_rank=true&hide_border=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=30,292a70,004f80&card_width=280" /><img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelRahmanRahal&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=30,004f80,292a70&card_width=280" />
 </a>
