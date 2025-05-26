@@ -1,19 +1,25 @@
+![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,14,18,19,20,24&text=AbdelRahman%20Rahal&section=header&reversal=false&fontSize=48&textBg=false&animation=fadeIn&desc=Cybersecurity%20Engineer&descAlignY=88)
+
 ### Core Skillset & Tools
-- 🛡️ Cybersecurity & DevOps
+- 🛡️ Cybersecurity
 
-  ![Cybersecurity & DevOps](https://go-skill-icons.vercel.app/api/icons?i=docker,kali,selenium,wireshark)
+  ![Cybersecurity](https://go-skill-icons.vercel.app/api/icons?i=kali,selenium,wireshark)
 
-- 💻 Programming Languages & Dev Tools
+- ⚙️ DevOps
 
-  ![Programming Languages & Tools](https://go-skill-icons.vercel.app/api/icons?i=git,java,latex,python,qt,vscode)
-
-- 📊 Machine Learning & Data Science
-
-  ![Machine Learning & Data Science](https://go-skill-icons.vercel.app/api/icons?i=excel,jupyter,kaggle,pandas,pytorch,scikitlearn,tensorflow)
+  ![DevOps](https://go-skill-icons.vercel.app/api/icons?i=ansible,docker)
 
 - 🗄️ Data Systems & Infrastructure
 
   ![Cybersecurity & Systems](https://go-skill-icons.vercel.app/api/icons?i=graphql,hadoop,postgresql,spark,supabase)
+
+- 💻 Programming Languages & Dev Tools
+
+  ![Programming Languages & Dev Tools](https://go-skill-icons.vercel.app/api/icons?i=git,java,latex,python,qt,vscode)
+
+- 📊 Machine Learning & Data Science
+
+  ![Machine Learning & Data Science](https://go-skill-icons.vercel.app/api/icons?i=excel,jupyter,kaggle,pandas,pytorch,scikitlearn,tensorflow)
 
 - 🌐 Web Development
 
