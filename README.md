@@ -15,7 +15,7 @@
 
 - 💻 Programming Languages & Dev Tools
 
-  ![Programming Languages & Dev Tools](https://go-skill-icons.vercel.app/api/icons?i=git,java,latex,python,qt,vscode)
+  ![Programming Languages & Dev Tools](https://go-skill-icons.vercel.app/api/icons?i=arch,git,java,latex,python,qt,vscode)
 
 - 📊 Machine Learning & Data Science
 
