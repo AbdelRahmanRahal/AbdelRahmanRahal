@@ -6,17 +6,20 @@
 - SIEM monitorin (experienced with **IBM QRadar**)
 - Alert triage & escalation
 
-### Tier 2 — Incident Response (IR)
+### Tier 2 — Incident Response
 - Incident response lifecycle management
 - Log analysis
 - Incident report writing
 - Malware analysis & containment
 
-### Tier 3 — Cyber Threat Hunting (CTH)
+### Tier 3 — Cyber Threat Hunting
 *(No sufficient practical experience yet)*
 - Threat hunting with IoCs & IoAs
 - Threat intelligence analysis (strategic, operational, tactical, technical)
 - Dark web monitoring & brand protection
+
+## Digital Forensics
+- soon, currently studying it :)
 
 ## 📝 GRC
 - ISO 27001 implementation & ISMS design
