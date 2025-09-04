@@ -18,7 +18,7 @@
 - Threat intelligence analysis (strategic, operational, tactical, technical)
 - Dark web monitoring & brand protection
 
-## Digital Forensics
+## 🔎 Digital Forensics
 - soon, currently studying it :)
 
 ## 📝 GRC
