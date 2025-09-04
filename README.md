@@ -1,10 +1,45 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,14,18,19,20,24&text=AbdelRahman%20Rahal&section=header&reversal=false&fontSize=48&textBg=false&animation=fadeIn&desc=Cybersecurity%20Engineer&descAlignY=88)
+![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,14,18,19,20,24&text=AbdelRahman%20Rahal&section=header&reversal=false&fontSize=48&textBg=false&animation=fadeIn&desc=Cyber%20Security%20Specialist%20%20|%20%20Software%20Engineer%20Hobbyist&descAlignY=88)
 
+# Cyber Security Skillset
+## 🛡️ SOC
+### Tier 1 — SOC Analysis
+- SIEM monitorin (experienced with **IBM QRadar**)
+- Alert triage & escalation
+
+### Tier 2 — Incident Response (IR)
+- Incident response lifecycle management
+- Log analysis
+- Incident report writing
+- Malware analysis & containment
+
+### Tier 3 — Cyber Threat Hunting (CTH)
+*(No sufficient practical experience yet)*
+- Threat hunting with IoCs & IoAs
+- Threat intelligence analysis (strategic, operational, tactical, technical)
+- Dark web monitoring & brand protection
+
+## 📝 GRC
+- ISO 27001 implementation & ISMS design
+- Risk assessment & treatment
+- ISO 27001 auditing
+- Governance policy & compliance alignment
+- Security assurance & control validation
+
+## 💻 Penetration Testing
+- Vulnerability scanning with Nessus
+- Network penetration testing with Nmap, Metasploit, etc. (Kali Linux in general)
+- Web application penetration testing with Burp Suite
+- Penetration test reporting & remediation guidance
+
+## 🏗️ Security Architecture, Design, & Review
+- Layered defense architecture
+- Secure system design principles
+- Vendor security evaluation
+- RFP & technical documentation review
+- Compliance-driven architecture review
+
+# Software Engineering Skillset
 ### Core Skillset & Tools
-- 🛡️ Cybersecurity
-
-  ![Cybersecurity](https://go-skill-icons.vercel.app/api/icons?i=kali,selenium,wireshark)
-
 - ⚙️ DevOps
 
   ![DevOps](https://go-skill-icons.vercel.app/api/icons?i=ansible,docker)
