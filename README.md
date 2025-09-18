@@ -34,7 +34,7 @@
 - Web application penetration testing with Burp Suite
 - Penetration test reporting & remediation guidance
 
-## 🏗️ Security Architecture, Design, & Review
+## 🏗️ Security Architecture Design & Review
 - Layered defense architecture
 - Secure system design principles
 - Vendor security evaluation
