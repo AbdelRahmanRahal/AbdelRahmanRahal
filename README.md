@@ -19,12 +19,17 @@
 - Dark web monitoring & brand protection
 
 ## 🔎 Digital Forensics
-- soon, currently studying it :)
+- Artifact Analysis
+- Data Carving
+- Disk imaging
+- Evidence collection & preservation
+- FTK
 
 ## 📝 GRC
 - ISO 27001 implementation & ISMS design
 - Risk assessment & treatment
 - ISO 27001 auditing
+- PCI-DSS Compliance Program Developmen
 - Governance policy & compliance alignment
 - Security assurance & control validation
 
