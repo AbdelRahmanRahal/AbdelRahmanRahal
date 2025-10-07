@@ -3,7 +3,7 @@
 # Cyber Security Skillset
 ## 🛡️ SOC
 ### Tier 1 — SOC Analysis
-- SIEM monitorin (experienced with **IBM QRadar**)
+- SIEM monitoring (experienced with **IBM QRadar**)
 - Alert triage & escalation
 
 ### Tier 2 — Incident Response
