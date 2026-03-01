@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,14,18,19,20,24&text=AbdelRahman%20Rahal&section=header&reversal=false&fontSize=48&textBg=false&animation=fadeIn&desc=Cyber%20Security%20Specialist%20%20|%20%20Software%20Engineer%20Hobbyist&descAlignY=88)
+![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,14,18,19,20,24&text=AbdelRahman%20Rahal&section=header&reversal=false&fontSize=48&textBg=false&animation=fadeIn&desc=Junior%20Penetration%20Tester%20%20|%20%20DevSecOps%20Engineer%20&descAlignY=88)
 
 # Cyber Security Skillset
 ## 🛡️ SOC
