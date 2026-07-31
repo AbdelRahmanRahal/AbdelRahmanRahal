@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,14,18,19,20,24&text=AbdelRahman%20Rahal&section=header&reversal=false&fontSize=48&textBg=false&animation=fadeIn&desc=Junior%20Penetration%20Tester%20%20|%20%20DevSecOps%20Engineer%20&descAlignY=88)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=88D9FF&height=120&section=header" alt="header"/> 
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=36&duration=4500&pause=500&color=88D9FF&width=435&lines=AbdelRahman+Rahal;DevSecOps+Engineer" alt="AbdelRahman Rahal | DevSecOps Engineer"/>
 
 # Cyber Security Skillset
 ## 🛡️ SOC
