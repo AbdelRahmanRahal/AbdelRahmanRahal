@@ -2,77 +2,34 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=36&duration=4500&pause=500&color=88D9FF&width=435&lines=AbdelRahman+Rahal;DevSecOps+Engineer" alt="AbdelRahman Rahal | DevSecOps Engineer"/>
 
-# Cyber Security Skillset
-## 🛡️ SOC
-### Tier 1 — SOC Analysis
-- SIEM monitoring (experienced with **IBM QRadar**)
-- Alert triage & escalation
+### Core DevSecOps Tools
+#### ☁️ Cloud Platforms
+![Cloud Platforms](https://go-skill-icons.vercel.app/api/icons?i=aws,railway)
 
-### Tier 2 — Incident Response
-- Incident response lifecycle management
-- Log analysis
-- Incident report writing
-- Malware analysis & containment
+#### 📦 Containers & Orchestration
+![Containers & Orchestration](https://go-skill-icons.vercel.app/api/icons?i=docker,helm,kubernetes,podman,openshift)
 
-### Tier 3 — Cyber Threat Hunting
-*(No sufficient practical experience yet)*
-- Threat hunting with IoCs & IoAs
-- Threat intelligence analysis (strategic, operational, tactical, technical)
-- Dark web monitoring & brand protection
+#### 🛠️ IaC & GitOps
+![IaC & GitOps](https://go-skill-icons.vercel.app/api/icons?i=ansible,argocd,github,terraform)
 
-## 🔎 Digital Forensics
-- Artifact Analysis
-- Data Carving
-- Disk imaging
-- Evidence collection & preservation
-- FTK
+#### 📈 Observability
+![Observability](https://go-skill-icons.vercel.app/api/icons?i=datadog,grafana,prometheus)
 
-## 📝 GRC
-- ISO 27001 implementation & ISMS design
-- Risk assessment & treatment
-- ISO 27001 auditing
-- PCI-DSS Compliance Program Developmen
-- Governance policy & compliance alignment
-- Security assurance & control validation
+#### 🔐 Security
+![Security](https://go-skill-icons.vercel.app/api/icons?i=burpsuite,cloudflare,kali,snyk,tryhackme,wireshark)
 
-## 💻 Penetration Testing
-- Vulnerability scanning with Nessus
-- Network penetration testing with Nmap, Metasploit, etc. (Kali Linux in general)
-- Web application penetration testing with Burp Suite
-- Penetration test reporting & remediation guidance
+### Other Tools
+#### 🎨 Frontend
+![Frontend](https://go-skill-icons.vercel.app/api/icons?i=css,html,javascript,qt,react,tailwindcss,tanstack,typescript,vite,zustand)
 
-## 🏗️ Security Architecture Design & Review
-- Layered defense architecture
-- Secure system design principles
-- Vendor security evaluation
-- RFP & technical documentation review
-- Compliance-driven architecture review
+#### 🐍 Backend
+![Backend](https://go-skill-icons.vercel.app/api/icons?i=celery,django,fastapi,flask,nodejs,postgresql,postman,python,rabbitmq,redis,spark,sqlalchemy,supabase)
 
-# Software Engineering Skillset
-### Core Skillset & Tools
-- ⚙️ DevOps
+#### 📊 Machine Learning & Data Science
+![Machine Learning & Data Science](https://go-skill-icons.vercel.app/api/icons?i=excel,jupyter,kaggle,pandas,pytorch,scikitlearn)
 
-  ![DevOps](https://go-skill-icons.vercel.app/api/icons?i=ansible,docker)
-
-- 🗄️ Data Systems & Infrastructure
-
-  ![Cybersecurity & Systems](https://go-skill-icons.vercel.app/api/icons?i=graphql,hadoop,postgresql,spark,supabase)
-
-- 💻 Programming Languages & Dev Tools
-
-  ![Programming Languages & Dev Tools](https://go-skill-icons.vercel.app/api/icons?i=arch,git,java,latex,python,qt,vscode)
-
-- 📊 Machine Learning & Data Science
-
-  ![Machine Learning & Data Science](https://go-skill-icons.vercel.app/api/icons?i=excel,jupyter,kaggle,pandas,pytorch,scikitlearn,tensorflow)
-
-- 🌐 Web Development
-
-  ![Web Development](https://go-skill-icons.vercel.app/api/icons?i=css,html,javascript,nodejs,react)
-
-- 🎨 Media & Graphic Design
-
-  ![Media & Graphic Design](https://go-skill-icons.vercel.app/api/icons?i=aftereffects,lightroom,photoshop)
+#### 🐧 I use Arch, btw
+![Arch](https://go-skill-icons.vercel.app/api/icons?i=arch)
 
 ### Github Stats
 <a href="https://github.com/AbdelRahmanRahal" style="text-decoration: none;">
