@@ -16,7 +16,7 @@
 ![Observability](https://go-skill-icons.vercel.app/api/icons?i=datadog,grafana,prometheus)
 
 #### 🔐 Security
-![Security](https://go-skill-icons.vercel.app/api/icons?i=burpsuite,cloudflare,kali,snyk,tryhackme,wireshark)
+![Security](https://go-skill-icons.vercel.app/api/icons?i=burpsuite,cloudflare,kali,snyk,sonarqube,tryhackme,wireshark)
 
 ### Other Tools
 #### 🎨 Frontend
